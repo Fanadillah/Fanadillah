@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fanadillah
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and php
 - 💞️ I’m looking to collaborate on all project Web Developer
 - 📫 How to reach me, you can email me.. my email ilhampranataadi@gmail.com
 
